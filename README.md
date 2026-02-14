@@ -2,5 +2,6 @@
 1. Add your API Key to the url (the YOUR_KEY_HERE space)
 2. Run python stock.py
 3. Type in your stock symbol
+
 #Usage
 - This script calculates the simple moving average (SMA) of any stock in a 50-day period
